@@ -3,7 +3,7 @@
 hash_sniffer.py — 🧬 guess a hash's type by its shape
 
 Teaches: how hashes differ by length & alphabet, regex, and why you can
-never be 100%% sure from shape alone (many algorithms share a length).
+never be 100% sure from shape alone (many algorithms share a length).
 
 This does NOT crack anything — it only classifies. Great for the first 5
 seconds of a crypto/forensics challenge.
